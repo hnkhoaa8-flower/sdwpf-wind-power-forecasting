@@ -1,0 +1,6 @@
+,0
+reference_MAE,126.0744105
+best_model,LightGBM-L1
+best_MAE,122.22372861947856
+improvement_pct,3.054292988759555
+verdict,GOOD: model clearly beats reference

@@ -1,0 +1,8 @@
+step,value
+raw rows,4727520
+turbines,134
+r_missing rows,49518
+r_negative rows,1263062
+r_unknown rows,1082113
+r_abnormal rows,127
+rows valid under all rules,3595859

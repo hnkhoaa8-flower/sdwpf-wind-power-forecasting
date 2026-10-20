@@ -18,12 +18,6 @@ The `main` branch contains three files:
 
 Open the [main branch](https://github.com/hnkhoaa8-flower/sdwpf-wind-power-forecasting/tree/main) to view the notebooks and their original filenames.
 
-### `report` branch — generated outputs
-
-The `report` branch contains **41 files generated from running Notebook A and Notebook B**. These files are kept on a separate branch to distinguish generated outputs from the notebooks and documentation.
-
-Browse the [report branch](https://github.com/hnkhoaa8-flower/sdwpf-wind-power-forecasting/tree/report) to view the saved output files.
-
 ## Research overview
 
 The project uses SDWPF, a public wind-turbine dataset, to study short-term wind-power forecasting. The analysis documented in the notebooks covers:
